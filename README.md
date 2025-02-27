@@ -73,5 +73,5 @@ Feel free to contribute! Here's how you can help:
 
         github: https://github.com/TobeChukwu278
 
-        [X](https://x.com/TAGdev278?t=1BpqXhhRq-n6fWxgv0Zb9A&s=09)
+        (https://x.com/TAGdev278?t=1BpqXhhRq-n6fWxgv0Zb9A&s=09)
 
