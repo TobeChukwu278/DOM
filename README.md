@@ -23,6 +23,14 @@
 
     3. JavaScript: Dynamic color updates and interactivity.
 
+## Project Structure
+
+    |--index.html
+    |--license
+    |--readme.md
+    |--script.js
+    |--script.js
+
 ## installations
 
     1. Clone the repository:
@@ -35,9 +43,11 @@
     3. Open the index.html file in your browser.
 
 ## Deployment 
-    The project is deployed on render, a platfor known for it's fast and easy deployment of web application MIT
+    The project is deployed on render, a platfor known for it's fast and easy deployment of web applications.
 
-##LICENSE
+    Live Demo: [link](https://dom-x4v3.onrender.com)
+
+## LICENSE
     This Project is licensed under the [MIT](https://github.com/TobeChukwu278/DOM/blob/main/LICENSE)
 
 ## Contributions
@@ -59,3 +69,10 @@ Feel free to contribute! Here's how you can help:
 
     Feel free to connect via:
         whatsApp: +2349150643756
+
+        gmail: astrolix278@gmail.com
+
+        github: https://github.com/TobeChukwu278
+
+        [X](https://x.com/TAGdev278?t=1BpqXhhRq-n6fWxgv0Zb9A&s=09)
+
