@@ -45,7 +45,7 @@
 ## Deployment 
     The project is deployed on render, a platfor known for it's fast and easy deployment of web applications.
 
-    Live Demo: [link]https://dom-x4v3.onrender.com
+    Live Demo: [URL](https://dom-x4v3.onrender.com)
 
 ## LICENSE
 
