@@ -48,8 +48,7 @@
     Live Demo: [link](https://dom-x4v3.onrender.com)
 
 ## LICENSE
-    This Project is licensed under the [MIT](https://github.com/TobeChukwu278/DOM/blob/main/LICENSE)
-
+    This Project is licensed under the [MIT](https://github.com/TobeChukwu278/DOM/blob/main/LICENSE) license.
 ## Contributions
 
 Feel free to contribute! Here's how you can help:
